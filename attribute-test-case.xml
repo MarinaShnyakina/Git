@@ -1,0 +1,16 @@
+<?xml version="1.0" enconing="UTF-8"?>
+<!-- Основные атрибуты тест-кейса-->
+<test_case>
+    <ID_test_case>Number</ID_test_case>
+    <Test_environment>System/Browser/Operating system</Test_environment>
+    <Description>Short description test-case</Desctiption>
+    <Step>Step</Step>
+    <Imput>Imput</Imput>
+    <Expected_result>Result</Expected_result>
+    <Status>Passend/Failed/Blocked/Sripped</Status>
+    </test_case>
+        
+<!-- Для некоторых тест-кейсов могут потребоваться дополнительные атрибуты:
+Требование к среде
+Специальные процедурные требования
+Межкейсовые зависимости -->

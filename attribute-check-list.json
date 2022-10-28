@@ -1,0 +1,26 @@
+// Основные атрибуты чек-листа
+"Шапка" состоит из пунктов:
+
+{
+    "NumberCheck-list":Number
+    "ShortDescriptionCheck-list":"Description"
+    "TestEnvironment":"Environment"
+    "EmployeePosition":"Junior QA Engineer"
+    "FirstNameLastName":"Marina Shnyakina"
+    "PreparationDate":"2022-10-26"
+    
+}
+    
+
+//Таблица чек-листа состоит из пунктов:
+{
+    // В зависимости от вида тестирования
+    "FunctionName":"Functional testing"
+    "Status":"Passed, Failed or Blocked"
+    "Comment":"Указывается комментарий, если он необходим"
+    
+}
+
+
+
+
