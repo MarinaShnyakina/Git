@@ -2,8 +2,8 @@
 <!-- Основные атрибуты тест-кейса-->
 <test_case>
     <ID_test_case>Number</ID_test_case>
-    <Test_environment>System/Browser/Operating system</Test_environment>
-    <Description>Short description test-case</Desctiption>
+    <Test_environment>System;Browser;Operating system</Test_environment>
+    <Description>Short description test-case</Description>
     <Steps>Steps</Steps>
     <Imput>Imput</Imput>
     <Expected_result>Result</Expected_result>
@@ -14,3 +14,4 @@
 Требование к среде
 Специальные процедурные требования
 Межкейсовые зависимости -->
+
