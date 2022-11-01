@@ -8,7 +8,7 @@
     <Imput>Imput</Imput>
     <Expected_result>Result</Expected_result>
     <Status>Passend/Failed/Blocked/Sripped</Status>
-    </test_case>
+</test_case>
         
 <!-- Для некоторых тест-кейсов могут потребоваться дополнительные атрибуты:
 Требование к среде
