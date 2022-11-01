@@ -4,7 +4,7 @@
     <ID_test_case>Number</ID_test_case>
     <Test_environment>System/Browser/Operating system</Test_environment>
     <Description>Short description test-case</Desctiption>
-    <Step>Step</Step>
+    <Steps>Steps</Steps>
     <Imput>Imput</Imput>
     <Expected_result>Result</Expected_result>
     <Status>Passend/Failed/Blocked/Sripped</Status>
